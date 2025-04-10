@@ -4,7 +4,7 @@ Yazılım Geliştiricisi | Web Meraklısı
 
 
 🌱 Şu anda Yazılım Geliştirme, Oyun Geliştirme, Veritabanı Yönetimi, Otomasyon Sistemleri ve Bulut Bilişim konularında kendimi geliştiriyorum.
-🚀 C#, SQL Server, DevExpress ve Windows Forms ile projeler geliştiriyorum. Ayrıca Yapay Zeka ve Makine Öğrenimi alanlarında da çalışmalara başlamak istiyorum.
+🚀 C#, SQL Server, DevExpress ve Windows Forms ile projeler geliştiriyorum. Ayrıca Yapay Zeka ve Bulut Bilişim alanlarında da çalışmalara başlamak istiyorum.
 🖥️ Visual Studio, IntelliJ IDEA, Proteus gibi araçlarla projelerimi hayata geçiriyorum.
 
 
