@@ -1,4 +1,4 @@
-                                                                  👋 Merhaba, ben RUKİYE NUR DANLER
+                                                         👋 Merhaba, ben RUKİYE NUR DANLER
 
 Yazılım Geliştiricisi | Web Meraklısı
 
@@ -10,7 +10,7 @@ Yazılım Geliştiricisi | Web Meraklısı
 
 
 
-
+                       
 
 
 
