@@ -1,10 +1,18 @@
-👋 Merhaba, ben Rukiye Nur Danler
+                                                                  👋 Merhaba, ben RUKİYE NUR DANLER
+
 Yazılım Geliştiricisi | Web Meraklısı
-GitHub | LinkedIn
+
 
 🌱 Şu anda Yazılım Geliştirme, Oyun Geliştirme, Veritabanı Yönetimi, Otomasyon Sistemleri ve Bulut Bilişim konularında kendimi geliştiriyorum.
 🚀 C#, SQL Server, DevExpress ve Windows Forms ile projeler geliştiriyorum. Ayrıca Yapay Zeka ve Makine Öğrenimi alanlarında da çalışmalara başlamak istiyorum.
 🖥️ Visual Studio, IntelliJ IDEA, Proteus gibi araçlarla projelerimi hayata geçiriyorum.
+
+
+
+
+
+
+
 
 🚀 Projelerim
 ❌⭕❌ Tik Tac Toe (X ve O Oyunu): C# ve .NET Framework kullanarak geliştirdiğim klasik bir oyun. Hem tek oyunculu hem de iki oyunculu modlarda oynanabilen versiyonu mevcut.
