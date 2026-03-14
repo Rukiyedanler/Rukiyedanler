@@ -48,14 +48,14 @@ LinkedIn: linkedin.com/in/rukiye-nur-danler
 <h3 align="center">My GitHub Stats 📊</h3>
 
 <p align="center">
-  <a href="https://github.com/GITHUB_KULLANICI_ADINIZ">
-    <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADINIZ&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/Rukiyedanler">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rukiyedanler&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/GITHUB_KULLANICI_ADINIZ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADINIZ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Rukiyedanler">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiyedanler&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -63,6 +63,6 @@ LinkedIn: linkedin.com/in/rukiye-nur-danler
 
 <p align="center">
   <!-- Ekrandaki pembemsi grafiğin benzeri ayarlanmıştır -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_KULLANICI_ADINIZ&bg_color=FDE8F7&color=6B21A8&line=C026D3&point=6B21A8&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukiyedanler&bg_color=FDE8F7&color=6B21A8&line=C026D3&point=6B21A8&hide_border=true" alt="Contribution Graph" />
 </p>
 
