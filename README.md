@@ -33,8 +33,6 @@
 
 <br/>
 
-<p align="center">
-  <!-- Ekrandaki pembemsi grafiğin benzeri ayarlanmıştır -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukiyedanler&bg_color=FDE8F7&color=6B21A8&line=C026D3&point=6B21A8&hide_border=true" alt="Contribution Graph" />
-</p>
+
+
 
