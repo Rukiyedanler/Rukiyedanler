@@ -69,15 +69,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rukiyedanler&show_icons=true&theme=nord&title_color=b197fc&icon_color=b197fc&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
-  <img height="165em" src="https://streak-stats.demolab.com/?user=Rukiyedanler&theme=nord&background=0D1117&stroke=B197FC&ring=B197FC&fire=B197FC&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=B197FC&sideLabels=B197FC&hide_border=true" />
-</div>
-
-<br/>
-
 ### 📫 Connect With Me
 
 <p align="center">
@@ -87,4 +78,4 @@
   <a href="mailto:rukiyenurdanler513@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p><div align="center">
+</p>
